@@ -6,3 +6,4 @@ This is the first line.
 
 this is the second line
 some new text
+added more
